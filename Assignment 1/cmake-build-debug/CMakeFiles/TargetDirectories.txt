@@ -1,0 +1,3 @@
+/Users/shlokpatel/Desktop/C Projects/Assignment 1/cmake-build-debug/CMakeFiles/Assignment_1.dir
+/Users/shlokpatel/Desktop/C Projects/Assignment 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shlokpatel/Desktop/C Projects/Assignment 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
